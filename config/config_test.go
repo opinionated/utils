@@ -1,8 +1,8 @@
 package config_test
 
 import (
+	"github.com/opinionated/utils/config"
 	"os"
-	"scraper/config"
 	"testing"
 )
 
