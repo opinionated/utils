@@ -11,7 +11,7 @@ import (
 // Add a file with ReadFile(name, file), name will be id of those values
 // To get a value use From(conf file name) to reference the file you want
 // then use the getters to get the value you want
-// TODO: add warnings, more gets
+// TODO: add warnings, more getsss
 
 type configData map[string]interface{}
 
